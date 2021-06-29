@@ -1,0 +1,19 @@
+/*imports*/
+body {
+  background-color: black; }
+
+p {
+  color: white; }
+
+.responsive {
+  max-width: 100%; }
+
+.linearGradient {
+  background: linear-gradient(0deg, #37005e, black); }
+
+.textBlack {
+  color: black; }
+
+* {
+  margin: 0px;
+  padding: 0px; }
